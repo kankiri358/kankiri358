@@ -1,4 +1,13 @@
-## Hi there 👋
+
+# Kanki 👋
+
+## How to view
+
+You can see the live version here: [https://kankiri358.github.io](https://kankiri358.github.io)
+
+## License
+
+This project is licensed under the MIT License.
 
 <!--
 **kankiri358/kankiri358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
